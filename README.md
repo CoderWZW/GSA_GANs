@@ -4,6 +4,9 @@ this is the source file of paper: Gray-Box Shilling Attack An Adversarial Learni
 please visit link below to get QRec code that is to run recommendation algorithms, and put the codes into the file recommendation. 
 
 
+https://github.com/Coder-Yu/QRec
+
+
 operation step:
 1. run getTargetsItem.py.
 this step is to get target items that attempt to attack. If you succeed, you will see a file named "targets.txt"
