@@ -1,7 +1,7 @@
-this is the source file of paper: Gray-Box Shilling Attack An Adversarial Learning Approach. \\
+this is the source file of paper: Gray-Box Shilling Attack An Adversarial Learning Approach. 
 
 
-please visit link below to get QRec code that is to run recommendation algorithms, and put the codes into the file recommendation. \\
+please visit link below to get QRec code that is to run recommendation algorithms, and put the codes into the file recommendation. 
 
 
 operation step:
